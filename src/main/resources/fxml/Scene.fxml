@@ -93,7 +93,7 @@
       <Separator layoutX="177.0" layoutY="23.0" orientation="VERTICAL" prefHeight="468.0" prefWidth="5.0" />
       <Button layoutX="19.0" layoutY="83.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="147.0" text="Общая Статистика" />
       <Button layoutX="19.0" layoutY="137.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="147.0" text="Ежедневная статистика" />
-      <ChoiceBox layoutX="217.0" layoutY="36.0" prefWidth="150.0">
+      <ChoiceBox layoutX="201.0" layoutY="36.0" prefWidth="150.0">
          <tooltip>
             <Tooltip text="Empty Tooltip" />
          </tooltip>

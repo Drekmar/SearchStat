@@ -1,2 +1,4 @@
 /target/
-/nb-configuration.xml
+!/target/classes/fxml/
+!/target/classes/hdt/
+!/target/classes/styles/
