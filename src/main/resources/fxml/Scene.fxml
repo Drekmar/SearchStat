@@ -107,6 +107,7 @@
             <Tooltip text="Empty Tooltip" />
          </tooltip>
       </ChoiceBox>
-      <ComboBox layoutX="19.0" layoutY="221.0" prefWidth="150.0" />
+      <ComboBox layoutX="390.0" layoutY="71.0" prefWidth="150.0" />
+      <Button layoutX="19.0" layoutY="194.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="147.0" text="test" visible="false" />
     </children>
 </AnchorPane>
